@@ -323,3 +323,4 @@ else:
     for i in range(len(XDOP)):
         s += XDOP[i] * 2 ** i
 print(str(x) + '/' + str(y) + ' = ' + str(S) + ' + ost(' + str(s) + ')')
+input()
